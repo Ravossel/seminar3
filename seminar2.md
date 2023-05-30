@@ -39,3 +39,26 @@ git reflog
 ```fix
 git stash
 ```
+
+
+# GitHub-Flavored Markdown
+
+
+## Заголовки
+
+
+
+
+## Исходный код
+
+
+
+
+## Таблицы
+
+
+
+
+
+
+## Изображения
